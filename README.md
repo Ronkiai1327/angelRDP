@@ -20,7 +20,8 @@ it's all free, don't be stingy ⭐️ yes: D
 
 > Go to Action> CI> Run workflow
 
-> Refresh Web and go to CI> build
+> Refresh Web and go to CIdkddjdhdhdhge
+Jdhdhebuild
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ```
