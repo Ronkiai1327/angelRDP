@@ -21,7 +21,7 @@ Xmdjjdjd
 
 > Go to Action> CI> Run workflow
 
-> Refresh Web and go to CIdkddjdhdhdhge
+> Refresh Web and go to CIdkddjdhdhdhge... 
 Jdhdhebuild
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
