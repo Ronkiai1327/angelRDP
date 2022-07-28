@@ -24,7 +24,7 @@ Xmdjjdjd
 > Refresh Web and go to CIdkddjdhdhdhge... 
 Jdhdhebuild
 
-> Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
+> Press Down facing arrow button "RDP Info...  LOGIN" To Get IP, User, Password.
 ```
 ## If Error Showed
 
